@@ -1,5 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E03AQG8kDkUUYw…eta&t=08IQ9vpeP5-96TP01-iAoK4yAh4NdBAyz6wWwNCPjBs)
-
 <h1 align="center">Hi 👋, I'm Ayşenur ERKAN</h1>
 <h3 align="center">A passionate full-stack developer from Türkiye</h3>
 
